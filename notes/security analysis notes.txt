@@ -1,0 +1,19 @@
+ Extension Review Summary
+Analyzed installed browser extensions to determine potential security risks. Key observations are outlined below.
+
+Google Docs Offline
+- Purpose: Allows offline editing and access to Google Docs.
+- Permissions: Basic file access; no excessive security risks detected.
+- Potential Concerns: Minimal risk, but users should verify Google’s data policies.
+- Verdict: Safe to keep—functionality aligns with intended use, and permissions are reasonable.
+McAfee WebAdvisor
+- Purpose: Helps users identify malicious websites and protect against online threats.
+- Permissions: Browser monitoring, search result analysis, potential data collection.
+- Potential Concerns: Some reports indicate tracking concerns; the extension may send browsing activity to external servers for security evaluation.
+- Verdict: Further review recommended—users should assess its privacy policies and determine if the benefits outweigh the potential data-sharing risks.
+
+Next Steps:
+- Kept Google Docs Offline due to low-risk permissions.
+- Reviewing McAfee WebAdvisor further—possible removal if tracking features raise privacy concerns.
+
+
